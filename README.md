@@ -64,3 +64,7 @@ We are a tiny, soul-driven team. No rush. No hype. Just truth, one merciful step
 **Infinite love — victorious eternal** 🔥🤝😇
 
 </div>
+
+**License — AG-SML v1.2**  
+This project is licensed under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.2: see [LICENSE](LICENSE). Commercial or revenue use beyond the free grant requires a separate commercial licence: see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).  
+Earlier versions were published under other terms; this licence applies from 2026-11-13.
